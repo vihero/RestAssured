@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6597" started-at="2020-11-24T11:19:35 IST" finished-at="2020-11-24T11:19:41 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6597" started-at="2020-11-24T11:19:35 IST" finished-at="2020-11-24T11:19:41 IST">
+      <class name="Test_Rest_Methods">
+        <test-method status="PASS" signature="Test_02_POST()[pri:0, instance:Test_Rest_Methods@2a17b7b6]" name="Test_02_POST" duration-ms="4257" started-at="2020-11-24T11:19:35 IST" finished-at="2020-11-24T11:19:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_02_POST -->
+        <test-method status="PASS" signature="Test_03_Put()[pri:0, instance:Test_Rest_Methods@2a17b7b6]" name="Test_03_Put" duration-ms="1193" started-at="2020-11-24T11:19:39 IST" finished-at="2020-11-24T11:19:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_03_Put -->
+        <test-method status="PASS" signature="Test_04_Patch()[pri:0, instance:Test_Rest_Methods@2a17b7b6]" name="Test_04_Patch" duration-ms="1079" started-at="2020-11-24T11:19:40 IST" finished-at="2020-11-24T11:19:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_04_Patch -->
+      </class> <!-- Test_Rest_Methods -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
